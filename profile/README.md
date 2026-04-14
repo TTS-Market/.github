@@ -45,8 +45,8 @@ All active development happens in private repositories as we work toward our ini
 
 Interested in early access, partnership, or just want to follow our progress?
 
-- 🌐 Website: *Coming soon*
-- 📧 Contact: [hello@tts-market.com](mailto:hello@tts-market.com)
+- 🌐 Website: https://ttsmarket.place (Proof-of-Concept Storefront for technology/product demonstration)
+- 📧 Contact: [support@ttsmarket.place](mailto:support@ttsmarket.place)
 
 ---
 
